@@ -1,0 +1,3 @@
+#!/bin/sh
+
+node node_modules/textlint/bin/textlint.js -f pretty-error *.txt
